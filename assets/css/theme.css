@@ -1,4 +1,6 @@
 :root{
     --primary-color: #264BA0;
     --secondary-color: #119de2;
+
+    --logo-height-max: 60px;
 }
